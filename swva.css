@@ -1,0 +1,61 @@
+/*main elements*/
+
+#header {
+  display: none;
+}
+
+.brikit-canvas {
+  margin-left: 0px;
+}
+
+.brikit-toolbar {
+  margin-left: 0px;
+}
+
+.ia-fixed-sidebar  {
+  width: 0px;
+  display: none;
+}
+
+/*header buttons/links*/
+
+#space-menu-link, #create-page-button, #quick-create-page-button, #brikit-toggle-header, #help-menu-link{
+  display: none;
+}
+
+.aui-header-logo.aui-header-logo-custom img {
+  display: none;
+}
+/*menu links*/
+
+#view-in-hierarchy-link, #brikit-edit-mode, #action-page-permissions-link, #action-export-pdf-link, #brikit-designer-link, #action-view-source-link, #action-move-page-dialog-link  {
+  display: none;
+}
+
+#editPageLink {
+  background: #69b86a !important;
+  color: #ffffff !important;
+}
+
+#editPageLink .aui-iconfont-edit{
+  color: #ffffff !important;
+}
+
+/*misc other*/
+
+#upm-requests-link {
+  display: none;
+}
+
+#main-content.brikit-content-layers .plugin_pagetree ul li .plugin_pagetree_children_content a, #main-content.brikit-content-layers .plugin_pagetree ul li span a {
+    color: #2085b3;
+}
+
+.cq-ask-button {
+   background: #69b86a !important;
+   color: #ffffff !important;
+}
+
+.sidebar-opt-out {
+  display: none;
+}

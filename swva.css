@@ -10,6 +10,7 @@
 
 .brikit-toolbar {
   margin-left: 0px;
+  display: none;
 }
 
 .ia-fixed-sidebar  {
